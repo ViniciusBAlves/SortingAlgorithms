@@ -1,0 +1,63 @@
+PARTE1: ESTATISTICAS DA TABELA HASH
+NUMERO DE ENTRADAS DA TABELA USADAS #503
+NUMERO DE ENTRADAS DA TABELA VAZIAS #0
+TAXA DE OCUPACAO #100.00
+MINIMO TAMANHO DE LISTA #3
+MAXIMO TAMANHO DE LISTA #47
+MEDIO TAMANHO DE LISTA #19
+
+PARTE 2: ESTATISTICAS DAS CONSULTAS
+Adris Briannah HIT #1
+Graesyn Fallou HIT #1
+Aleira Khalani HIT #1
+Sonnie Romney HIT #1
+Kassaya Aveleen HIT #1
+Micaella Zeon HIT #1
+Buster Kaegan HIT #1
+Dyamond Shamshon HIT #1
+Adalys Hasti HIT #1
+Anton Grier HIT #1
+Jesiyah Sadey HIT #4
+Shalayah Morena HIT #4
+Aws Asaun HIT #7
+Darleth Mays HIT #6
+Anh Alann HIT #1
+Daniela Nicky HIT #5
+Kassius Teya HIT #3
+Darel Mubarak HIT #3
+Joao Comba MISS
+Azalaya Andersen HIT #7
+Valeska Drayke HIT #8
+Makyla Azari HIT #6
+Emila Joye HIT #6
+Edwardo Sadye HIT #9
+Daimon Dua HIT #5
+Ruth Macey HIT #7
+Arie Liana HIT #3
+Eduardo Vernier MISS
+Wills Makana HIT #10
+Kyell Avalina HIT #13
+Bodee Garner HIT #11
+Aibhlinn Bransyn HIT #17
+Jacarion Beatris HIT #16
+Symphonee Azalynn HIT #14
+Jalin Dajohn HIT #15
+Julien Hanief HIT #20
+Allen Rella HIT #24
+Muiz Demia HIT #28
+Juan Ipenza MISS
+Charolette Avianna HIT #33
+Italie Rigley HIT #40
+Rowdy Iry HIT #19
+Kycen Damari HIT #42
+Aafiya Saahir HIT #18
+Haniyah Astrid HIT #22
+Kynnleigh Kaely HIT #16
+Zayed Zeo HIT #28
+Marai Farris HIT #31
+Emmeri Raelynn HIT #28
+Eban Nikita HIT #28
+MINIMO NUMERO DE TESTES POR NOME ENCONTRADO #1
+MAXIMO NUMERO DE TESTES POR NOME ENCONTRADO #42
+MEDIA NUMERO DE TESTES NOME ENCONTRADO #12
+MEDIA #11

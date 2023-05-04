@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1656597760 source:c:\users\aluno\desktop\lab1\code\lab1\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1656597786 c:\users\aluno\desktop\lab1\code\lab1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1656597747 source:c:\users\aluno\desktop\lab1\code\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1657067376 source:d:\downloads\lab1cpd-main\lab1\code\lab1\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1657067376 d:\downloads\lab1cpd-main\lab1\code\lab1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1657067376 source:d:\downloads\lab1cpd-main\lab1\code\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1657232943 source:d:\downloads\lab1cpd-main\Última otimização que fiz\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+	<string.h>
+
+1657066873 d:\downloads\lab1cpd-main\Última otimização que fiz\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1657232943 source:d:\downloads\lab1cpd-main\Última otimização que fiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
